@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lab_1</string>
+    <string name="choose_author">  Choose author</string>
+    <string name="choose_year">Choose year</string>
+    <string name="year1">1850-1875</string>
+    <string name="year2">1876-1900</string>
+    <string name="year3">1901-1925</string>
+    <string name="year4">1926-1950</string>
+    <string name="ok">OK</string>
+    <string name="result">RESULT</string>
+    <string name="empty"> </string>
+    <string-array name="authors">
+        <item>Эрнест Хеммингуэй</item>
+        <item>Джордж Оруэлл</item>
+        <item>Марк Твен</item>
+        <item>Эдгар Аллан По</item>
+        <item>     </item>
+    </string-array>
+</resources>
